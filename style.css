@@ -1,0 +1,36 @@
+    /* globals */
+    html, body {
+height: 50%;
+width: 100%;
+    }
+      
+      /* background */
+      body {
+        color: #fff;
+        background: #333;
+      }
+      
+      /* header */
+      h1 {
+        font-size: 3em;
+      }
+      
+      /* buttons */
+      button {
+        cursor: pointer;
+        margin: 0 5px;
+        padding: 10px 30px;
+        background: transparent;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        outline: 0;
+        color: #fff;
+        transition: all ease 300ms;
+      }
+      button:hover {
+        color: #333;
+        background: #fff;
+      }
+      
+      
+      
